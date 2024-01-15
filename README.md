@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **more about full-stack development and diving deep into the concepts**
 
-- 📫 How to reach me **kunaaalx360@gmail.com**
+- 📫 How to reach me: **kunaaalx360@gmail.com**
 
-- ⚡ Fun fact **I know I can do whatever I actually set my sights on.**
+- ⚡ Fun fact: **My hobbies involve books, photography, animanga and music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
