@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Raj</h1>
-<h3 align="center">A passionate full-stack developer from India.</h3>
+<h3 align="center">A passionate and curious full-stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divinelydemonic&label=Profile%20views&color=0e75b6&style=flat" alt="divinelydemonic" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dvnlydmnc001" target="blank"><img src="https://img.shields.io/twitter/follow/dvnlydmnc001?logo=twitter&style=for-the-badge" alt="dvnlydmnc001" /></a> </p>
 
-- 🌱 I’m currently learning **more about full-stack development and getting deep into the concepts**
+- 🌱 I’m currently learning **more about full-stack development and diving deep into the concepts**
 
 - 📫 How to reach me **kunaaalx360@gmail.com**
 
-- ⚡ Fun fact **I think I can do whatever I actually set my sights on.**
+- ⚡ Fun fact **I know I can do whatever I actually set my sights on.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
