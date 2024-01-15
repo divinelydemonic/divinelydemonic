@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dvnlydmnc001" target="blank"><img src="https://img.shields.io/twitter/follow/dvnlydmnc001?logo=twitter&style=for-the-badge" alt="dvnlydmnc001" /></a> </p>
 
-- 🌱 I’m currently learning **more about full-stack development and diving deep into the concepts**
+- 🌱 I’m currently learning **more about full-stack development and diving deep into the concepts.**
 
 - 📫 How to reach me: **kunaaalx360@gmail.com**
 
