@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divinelydemonic&label=Profile%20views&color=0e75b6&style=flat" alt="divinelydemonic" /> </p>
 
-
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" >
 
 <p align="left"> <a href="https://twitter.com/dvnlydmnc001" target="blank"><img src="https://img.shields.io/twitter/follow/dvnlydmnc001?logo=twitter&style=for-the-badge" alt="dvnlydmnc001" /></a> </p>
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dvnlydmnc001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dvnlydmnc001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divinelydemonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal raj" height="30" width="40" /></a>
-<a href="https://instagram.com/divinelydemonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divinelydemonic" height="30" width="40" /></a>
+<a href="https://twitter.com/dvnlydmnc001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="dvnlydmnc001" height="100" width="70" /></a>
+<a href="https://linkedin.com/in/divinelydemonic" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="kunal raj" height="100" width="70" /></a>
+<a href="https://instagram.com/divinelydemonic" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="divinelydemonic" height="100" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
