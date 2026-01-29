@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/divinelydemonic/divinelydemonic/blob/main/my_banner.png)
+
 <h1 align="center">Hi 👋 <br />I'm Kunal Raj</h1>
 <h3 align="center">A passionate and curious full-stack developer from India.</h3>
 
