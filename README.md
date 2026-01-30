@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/divinelydemonic/divinelydemonic/blob/main/my_banner.png)
 
 <h1 align="center">Hi 👋, I'm Kunal Raj</h1>
-<h3 align="center">A passionate App developer</h3>
+<h3 align="center">A Passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divinelydemonic&label=Profile%20views&color=0e75b6&style=flat" alt="divinelydemonic" /> </p>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/dvnlydmnc001" target="blank"><img src="https://img.shields.io/twitter/follow/dvnlydmnc001?logo=twitter&style=for-the-badge" alt="dvnlydmnc001" /></a> </p>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently working on **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/divinelydemonic](https://github.com/divinelydemonic)
 
