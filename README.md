@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divinelydemonic&label=Profile%20views&color=0e75b6&style=flat" alt="divinelydemonic" /> </p>
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" >
 
-<p align="left"> <a href="https://twitter.com/dvnlydmnc001" target="blank"><img src="https://img.shields.io/twitter/follow/dvnlydmnc001?logo=twitter&style=for-the-badge" alt="dvnlydmnc001" /></a> </p>
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" >
 
 - 🌱 I’m currently working on **Android Development**
 
