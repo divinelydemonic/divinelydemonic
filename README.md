@@ -48,3 +48,10 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 </p>
+
+
+## 📊 GitHub Overview
+
+![Metrics](https://metrics.lecoq.io/divinelydemonic?template=classic&languages=1&languages.limit=8&languages.details=percentage)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=divinelydemonic&layout=compact&theme=tokyonight)
