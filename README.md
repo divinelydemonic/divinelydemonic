@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/divinelydemonic/divinelydemonic/blob/main/my_banner.png)
+![MasterHead](https://github.com/divinelydemonic/divinelydemonic/blob/main/my_banne.png)
 
 <h1 align="center">Hi 👋, I'm Kunal Raj</h1>
 <h3 align="center">A Passionate Developer</h3>
