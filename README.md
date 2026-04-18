@@ -25,11 +25,14 @@
 
 ---
 
-## 🚧 Currently Building
+## 📚 Currently Learning
 
-- 📱 Wishlist App (Jetpack Compose + Room + MVVM)
-- ⚡ Exploring clean architecture & scalable apps
-- 🧪 Experimenting with cross-platform development
+- 🏗 Advanced Android Architecture  
+- ⚡ System Design fundamentals  
+- 🌐 Backend integration & APIs  
+- 🔐 User security & secure data handling  
+- 🔑 Authentication systems (OAuth, Firebase Auth, JWT)  
+- 🎨 Enhancing UX for intuitive and engaging apps  
 
 ---
 
