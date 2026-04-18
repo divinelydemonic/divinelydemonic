@@ -69,13 +69,8 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=divinelydemonic&show_icons=true&theme=tokyonight&hide_border=true&card_width=450" 
-    height="200"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinelydemonic&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinelydemonic&theme=tokyonight&hide_border=true&langs_count=6&card_width=1300" 
     height="200"
   />
 </p>
