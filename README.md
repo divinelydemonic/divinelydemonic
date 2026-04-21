@@ -50,10 +50,13 @@
 
 <p align="left">
   <a href="https://twitter.com/dvnlydmnc001" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="80" width="80" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="60" />
   </a>
   <a href="https://linkedin.com/in/divinelydemonic" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="80" width="80" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" />
+  </a>
+  <a href="https://linktr.ee/divinelydemonic" target="_blank">
+    <img src="https://cdn.simpleicons.org/linktree/39E09B" height="60" />
   </a>
 </p>
 
