@@ -72,9 +72,17 @@
 
 ## 📊 GitHub Analytics
 
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinelydemonic&theme=tokyonight&hide_border=true&langs_count=6&card_width=1300" 
-    height="200"
+    width="100%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divinelydemonic&theme=tokyonight&hide_border=true&langs_count=6&card_width=1000" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=divinelydemonic&theme=tokyo-night&hide_border=true" 
   />
 </p>
 
