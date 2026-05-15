@@ -65,7 +65,9 @@
 ## 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,postman,bootstrap,c,cpp,swift,flutter,react,js,html,css,python,mysql,firebase,git,figma" />
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,react,js,html,css,bootstrap,python,c,cpp,mysql,sqlite,firebase,aws,gcp,git,github,gradle,postman,figma,vscode,linux&perline=18"/>
+
 </p>
 
 ---
