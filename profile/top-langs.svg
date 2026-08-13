@@ -18,7 +18,7 @@
           }
           @supports(-moz-appearance: auto) {
             /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
+            .header { font-size: 19.38px; }
           }
           
     @keyframes slideInAnimation {
@@ -42,7 +42,7 @@
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
-      .stat { font-size:12px; }
+      .stat { font-size: 15.0px; }
     }
     .bold { font-weight: 700 }
     .lang-name {
