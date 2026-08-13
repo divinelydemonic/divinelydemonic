@@ -28,9 +28,29 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=divinelydemonic&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
+          options: username=divinelydemonic&langs_count=6&theme=tokyonight&hide_border=true&card_width=1000&title_color=7AA2F7&text_color=A9B1D6
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Customize Top Languages Font
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("profile/top-langs.svg")
+          svg = path.read_text()
+
+          # Reduce all font sizes to 75% while keeping
+          # the card dimensions and layout unchanged.
+          svg = re.sub(
+              r'font-size:\s*([0-9.]+)px',
+              lambda m: f'font-size: {float(m.group(1)) * 0.75:.1f}px',
+              svg
+          )
+
+          path.write_text(svg)
+          PY
 
       - name: Commit Stats
         run: |
