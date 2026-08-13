@@ -32,6 +32,43 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
+      - name: Increase Top Languages Font Size
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("profile/top-langs.svg")
+          svg = path.read_text()
+
+          # Increase SVG font sizes by approximately 25%.
+          def increase_font(match):
+              value = float(match.group(1))
+              new_value = round(value * 1.25, 2)
+              return f'{match.group(0).replace(match.group(1), str(new_value))}'
+
+          # Handle font-size="..."
+          svg = re.sub(
+              r'font-size="([0-9.]+)"',
+              increase_font,
+              svg
+          )
+
+          # Handle font-size: ...px
+          def increase_css_font(match):
+              value = float(match.group(1))
+              new_value = round(value * 1.25, 2)
+              return f'font-size: {new_value}px'
+
+          svg = re.sub(
+              r'font-size:\s*([0-9.]+)px',
+              increase_css_font,
+              svg
+          )
+
+          path.write_text(svg)
+          PY
+
       - name: Commit Stats
         run: |
           git config user.name "github-actions[bot]"
