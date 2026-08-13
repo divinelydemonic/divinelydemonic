@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=divinelydemonic&langs_count=6&theme=tokyonight&hide_border=true&card_width=1000&title_color=7AA2F7&text_color=A9B1D6
+          options: username=divinelydemonic&layout=compact&langs_count=6&hide_border=true&card_width=1000&bg_color=135deg,0B1020,111827,172554&title_color=93C5FD&text_color=C7D2FE&border_radius=16&custom_title=Languages%20I%20Build%20With
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -41,8 +41,6 @@ jobs:
           path = Path("profile/top-langs.svg")
           svg = path.read_text()
 
-          # Reduce all font sizes to 75% while keeping
-          # the card dimensions and layout unchanged.
           svg = re.sub(
               r'font-size:\s*([0-9.]+)px',
               lambda m: f'font-size: {float(m.group(1)) * 0.75:.1f}px',
