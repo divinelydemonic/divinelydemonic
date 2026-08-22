@@ -27,7 +27,7 @@
 
 💬 **Bubbles** — A real-time chat application focused on scalable Android architecture, authentication, real-time data, offline support, and production-ready engineering.
 
-🔨 Currently in active development.
+**🔨 Currently in active development.**
 
 ---
 
