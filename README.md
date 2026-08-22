@@ -12,8 +12,6 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Mobile App Developer focused on building clean, scalable, and scalable Android applications**.
-
 - 📱 Primarily focused on **Android development**
 - 🧩 Interested in building **real-world products from idea to implementation**
 - 🏗️ Enjoy working on **architecture, UI, performance, and problem solving**
