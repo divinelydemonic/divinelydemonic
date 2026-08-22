@@ -3,61 +3,109 @@
 <h1 align="center">Hi 👋, I'm Kunal Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Android+Developer;Cross+Platform+Builder;Tech+Enthusiast;Always+Learning+New+Things;Mobile+Application+Developer;Web+Developer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divinelydemonic&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Android+Developer;Mobile+Application+Developer;Product+Builder;Building+Real-World+Products;Turning+Ideas+Into+Apps;Always+Learning" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="240" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" />
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" />
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently building with **Android & Kotlin**
-- 📱 Exploring **Cross-platform (Flutter / React Native)**
-- 💡 Love working on **real-world products & ideas**
-- 💬 Ask me about **Apps, UI/UX, Architecture**
+I'm a **Mobile App Developer focused on building clean, scalable, and scalable Android applications**.
+
+- 📱 Primarily focused on **Android development**
+- 🧩 Interested in building **real-world products from idea to implementation**
+- 🏗️ Enjoy working on **architecture, UI, performance, and problem solving**
+- 🚀 Currently building and improving personal projects
+- 💼 Open to **freelance Android development and collaborations**
+- 📚 Always learning and exploring better ways to build software
 - 📫 Reach me: **kunaaalx360@gmail.com**
 - ⚡ Fun fact: *Books + Anime + Music = Perfect Day*
 
 ---
 
+## 🚀 Building Under Contraris
+
+**Contraris** is my developer identity for publishing and experimenting with Android products on Google Play.
+
+I use it to turn ideas into real products, learn through hands-on development, and continuously improve through user feedback.
+
+📱 **[View Contraris on Google Play](https://play.google.com/store/apps/developer?id=Contraris)**
+
+---
+
+## 🚀 Featured Project
+
+### 🎵 LocalWave — Local Music Player
+
+A modern offline Android music player focused on a clean, responsive and distraction-free listening experience.
+
+**Highlights:**
+
+- 🎧 Offline local music playback
+- 🎨 Dynamic album-based theming
+- ❤️ Favourite songs and playlists
+- 🔔 Background playback & notification controls
+- 🔄 Shuffle and repeat modes
+- 💾 Persistent playback state
+- 🌗 Light & dark themes
+- 📱 Responsive Android UI
+
+**Built with:** Kotlin • Jetpack Compose • Material 3 • Media3 • Room • DataStore • Coroutines & Flow • MVVM
+
+📱 **[Get LocalWave on Google Play](https://play.google.com/store/apps/details?id=kr.android.musicplayer)**
+
+💻 **[Project Preview](https://github.com/divinelydemonic/LocalWave-Music-Player-Android-Preview)**
+
+📌 **Version:** 1.0.1
+
+---
+
 ## 📚 Currently Learning
 
-- 🏗 Advanced Android Architecture  
-- ⚡ System Design fundamentals  
-- 🌐 Backend integration & APIs  
-- 🔐 User security & secure data handling  
-- 🔑 Authentication systems (OAuth, Firebase Auth, JWT)  
-- 🎨 Enhancing UX for intuitive and engaging apps  
+- 🏗️ Advanced Android architecture & scalable application design
+- 🧠 System design & software engineering fundamentals
+- ⚡ Performance optimization and efficient app development
+- 🌐 Backend integration and API-driven applications
+- 🔐 Authentication, authorization & secure data handling
+- 🧪 Testing, debugging & production-quality development
+- 🎨 Responsive UI/UX and better product experiences 
 
 ---
 
 ## 🧩 Core Skills
 
-- 📱 Mobile Development: Android (Kotlin, Jetpack Compose)
-- 🏗 Architecture: MVVM, Clean Architecture
-- 🔥 Backend & DB: Firebase, MySQL
-- 🎨 UI/UX: Figma, Material Design
-- ⚙️ Tools: Git, Postman
+- 📱 **Android:** Kotlin, Jetpack Compose, Android SDK
+- 🏗️ **Architecture:** MVVM, Clean Architecture, scalable application design
+- 💾 **Data:** Room, DataStore, local persistence & offline-first concepts
+- 🌐 **Integration:** REST APIs, Firebase, authentication
+- ⚙️ **Engineering:** Coroutines, Flow, Git, testing & debugging
+- 🎨 **UI:** Material Design, responsive and adaptive interfaces
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="left">
-  <a href="https://twitter.com/dvnlydmnc001" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="60" />
+
+  <a href="https://x.com/dvnlydmnc001" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" />
   </a>
+  &nbsp;&nbsp;
+
   <a href="https://linkedin.com/in/divinelydemonic" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/divinelydemonic" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" />
+  </a>
+  &nbsp;&nbsp;
+
   <a href="https://linktr.ee/divinelydemonic" target="_blank">
-    <img src="https://cdn.simpleicons.org/linktree/39E09B" height="60" />
+    <img src="https://cdn.simpleicons.org/linktree/39E09B" height="40" />
   </a>
+
 </p>
 
 ---
@@ -69,6 +117,16 @@
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,react,js,html,css,bootstrap,python,c,cpp,mysql,sqlite,firebase,aws,gcp,git,github,gradle,postman,figma,vscode,linux&perline=18"/>
 
 </p>
+
+---
+
+## 🎯 What I'm Focused On
+
+- 🚀 Building useful, real-world applications
+- 📱 Growing as an Android and mobile developer
+- 🏗️ Improving software architecture and system design skills
+- 🧠 Learning continuously through hands-on projects
+- 💼 Exploring freelance development and collaborations
 
 ---
 
@@ -99,41 +157,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🚀 Building scalable Android apps  
-- 🧠 Learning system design & clean architecture  
-- 💰 Exploring freelancing & product building  
-
----
-
-## 🧠 Developer Mindset
-
-- Build things people actually use  
-- Focus on clean, maintainable code  
-- Keep learning and shipping 🚀  
-
----
-
-## ⭐ Highlight
-
-🚀 Building apps focused on **real-world usability + clean UI**  
-💡 Constantly improving **performance, architecture, and scalability**
-
----
-
-## ⚡ Final Note
-
-I’m passionate about building apps that are not just functional, but **useful, scalable, and intuitive**.
-
-Always open to:
-- 💼 Freelancing opportunities
-- 🚀 Collaborations
-- 💡 New ideas
-- 🧠 Learning opportunities
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2500&color=00C2FF&center=true&vCenter=true&width=650&lines=Let's+build+something+meaningful;Keep+building+🚀;Keep+learning+🧠" />
+  <i>Building, learning, and improving — one project at a time. 🚀</i>
 </p>
