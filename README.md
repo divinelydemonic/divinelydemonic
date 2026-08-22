@@ -23,6 +23,14 @@
 
 ---
 
+## 🚧 Currently Working On
+
+💬 **Bubbles** — A real-time chat application focused on scalable Android architecture, authentication, real-time data, offline support, and production-ready engineering.
+
+🔨 Currently in active development.
+
+---
+
 ## 💻 Building Under Contraris
 
 **Contraris** is my developer identity for publishing and experimenting with Android products on Google Play.
