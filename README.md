@@ -20,12 +20,12 @@ I'm a **Mobile App Developer focused on building clean, scalable, and scalable A
 - 🚀 Currently building and improving personal projects
 - 💼 Open to **freelance Android development and collaborations**
 - 📚 Always learning and exploring better ways to build software
-- 📫 Reach me: **kunaaalx360@gmail.com**
-- ⚡ Fun fact: *Books + Anime + Music = Perfect Day*
+- 📫 Reach me: **kunaaalx360@gmail.com** and **divinelydemonic.dev@gmail.com**
+- ⚡ Fun fact: *Books + Music = Perfect Day*
 
 ---
 
-## 🚀 Building Under Contraris
+## 💻 Building Under Contraris
 
 **Contraris** is my developer identity for publishing and experimenting with Android products on Google Play.
 
@@ -82,31 +82,6 @@ A modern offline Android music player focused on a clean, responsive and distrac
 - 🌐 **Integration:** REST APIs, Firebase, authentication
 - ⚙️ **Engineering:** Coroutines, Flow, Git, testing & debugging
 - 🎨 **UI:** Material Design, responsive and adaptive interfaces
-
----
-
-<p align="left">
-
-  <a href="https://x.com/dvnlydmnc001" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/divinelydemonic" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/divinelydemonic" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://linktr.ee/divinelydemonic" target="_blank">
-    <img src="https://cdn.simpleicons.org/linktree/39E09B" height="40" />
-  </a>
-
-</p>
 
 ---
 
