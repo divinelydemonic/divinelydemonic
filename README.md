@@ -25,7 +25,7 @@
   align="right"
   alt="Android Developer"
   width="190"
-  src="./assets/android_mascot.gif"
+  src="./assets/android_mascot.png"
 />
 
 ## 👨‍💻 About Me
