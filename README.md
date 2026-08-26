@@ -17,15 +17,15 @@
 - 🏗️ Enjoy working on **architecture, UI, performance, and problem solving**
 - 🚀 Currently building and improving personal projects
 - 💼 Open to **freelance Android development and collaborations**
-- 📚 Always learning and exploring better ways to build software
-- 📫 Reach me: **kunaaalx360@gmail.com** and **divinelydemonic.dev@gmail.com**
+- 🧠 Focused on building software with a strong emphasis on quality and maintainability
+- 📫 Open to **freelance Android development and collaborations**
 - ⚡ Fun fact: *Books + Music = Perfect Day*
 
 ---
 
 ## 🚧 Currently Working On
 
-💬 **Bubbles** — A real-time chat application focused on scalable Android architecture, authentication, real-time data, offline support, and production-ready engineering.
+💬 **Bubbles** — A real-time 1-to-1 chat application built to explore scalable Android architecture, authentication, Cloud Firestore, real-time messaging, and offline support.
 
 **🔨 Currently in active development.**
 
@@ -45,13 +45,13 @@ I use it to turn ideas into real products, learn through hands-on development, a
 
 ### 🎵 LocalWave — Local Music Player
 
-A modern offline Android music player focused on a clean, responsive and distraction-free listening experience.
+A modern offline Android music player built for a clean, responsive, and distraction-free listening experience, with persistent playback and dynamic album-based theming.
 
 **Highlights:**
 
 - 🎧 Offline local music playback
 - 🎨 Dynamic album-based theming
-- ❤️ Favourite songs and playlists
+- ❤️ Favourite songs and library management
 - 🔔 Background playback & notification controls
 - 🔄 Shuffle and repeat modes
 - 💾 Persistent playback state
@@ -70,13 +70,13 @@ A modern offline Android music player focused on a clean, responsive and distrac
 
 ## 📚 Currently Learning
 
-- 🏗️ Advanced Android architecture & scalable application design
-- 🧠 System design & software engineering fundamentals
+- 🏗️ Advanced Android architecture and scalable application design
+- 🧠 System design and software engineering fundamentals
 - ⚡ Performance optimization and efficient app development
 - 🌐 Backend integration and API-driven applications
-- 🔐 Authentication, authorization & secure data handling
-- 🧪 Testing, debugging & production-quality development
-- 🎨 Responsive UI/UX and better product experiences 
+- 🔐 Authentication, authorization, and secure data handling
+- 🧪 Testing, debugging, and production-quality development
+- 🎨 Responsive UI/UX and better product experiences
 
 ---
 
@@ -93,21 +93,11 @@ A modern offline Android music player focused on a clean, responsive and distrac
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,ktor,firebase,sqlite,gradle,git,github,postman,figma,vscode,linux&perline=15" />
 </p>
-
----
-
-## 🎯 What I'm Focused On
-
-- 🚀 Building useful, real-world applications
-- 📱 Growing as an Android and mobile developer
-- 🏗️ Improving software architecture and system design skills
-- 🧠 Learning continuously through hands-on projects
-- 💼 Exploring freelance development and collaborations
 
 ---
 
@@ -125,7 +115,6 @@ A modern offline Android music player focused on a clean, responsive and distrac
   <img
     src="https://raw.githubusercontent.com/divinelydemonic/divinelydemonic/output/activity-graph.svg"
     width="95%"
-    options: theme=tokyo-night&hide_border=true
     alt="GitHub Activity Graph"
   />
 </p>
@@ -175,5 +164,5 @@ A modern offline Android music player focused on a clean, responsive and distrac
 ---
 
 <p align="center">
-  <i>Building, learning, and improving — one project at a time. 🚀</i>
+  <i>Turning ideas into products, one build at a time. 🚀</i>
 </p>
