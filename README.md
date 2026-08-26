@@ -1,9 +1,20 @@
-![MasterHead](https://github.com/divinelydemonic/divinelydemonic/blob/main/Banner_image.png)
+<img
+  src="https://github.com/divinelydemonic/divinelydemonic/blob/main/Banner_image_dark.png"
+  alt="MasterHead"
+  width="100%"
+/>
 
-<h1 align="center">Hi 👋, I'm Kunal Raj</h1>
+<h1 align="center">Greetings, I'm Kunal Raj</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Android+Developer;Mobile+Application+Developer;Product+Builder;Building+Real-World+Products;Turning+Ideas+Into+Apps;Always+Learning" />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=divinelydemonic&label=Profile%20Views&color=00C2FF&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
