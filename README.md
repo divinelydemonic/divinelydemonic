@@ -125,6 +125,7 @@ A modern offline Android music player focused on a clean, responsive and distrac
   <img
     src="https://raw.githubusercontent.com/divinelydemonic/divinelydemonic/output/activity-graph.svg"
     width="95%"
+    options: theme=tokyo-night&hide_border=true
     alt="GitHub Activity Graph"
   />
 </p>
