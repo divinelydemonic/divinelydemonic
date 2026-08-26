@@ -19,8 +19,6 @@
 
 ---
 
-<!--  <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" /> -->
-
 <img
   align="right"
   alt="Android Developer"
