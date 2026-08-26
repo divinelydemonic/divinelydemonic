@@ -82,21 +82,21 @@ A modern offline Android music player focused on a clean, responsive and distrac
 
 ## 🧩 Core Skills
 
-- 📱 **Android:** Kotlin, Jetpack Compose, Android SDK
-- 🏗️ **Architecture:** MVVM, Clean Architecture, scalable application design
-- 💾 **Data:** Room, DataStore, local persistence & offline-first concepts
-- 🌐 **Integration:** REST APIs, Firebase, authentication
-- ⚙️ **Engineering:** Coroutines, Flow, Git, testing & debugging
-- 🎨 **UI:** Material Design, responsive and adaptive interfaces
+- 📱 **Android:** Kotlin, Java, Android SDK, Jetpack Compose, Navigation Compose, XML, Material 3
+- 🏗️ **Architecture:** MVVM, Clean Architecture, Repository Pattern, scalable application design
+- 💾 **Data:** Room, DataStore, SQLite, Cloud Firestore, offline-first concepts
+- 🌐 **Networking & Backend:** REST APIs, Retrofit, Ktor, Firebase
+- 🔐 **Authentication:** Firebase Authentication, Google Sign-In, Android Credential Manager
+- ⚙️ **Engineering:** Coroutines, Flow, StateFlow, Git, testing & debugging
+- 🎵 **Media:** Media3, ExoPlayer, background playback, MediaSession
+- 🎨 **UI:** Jetpack Compose, Material Design 3, responsive and adaptive interfaces
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,swift,flutter,react,js,html,css,bootstrap,python,c,cpp,mysql,sqlite,firebase,aws,gcp,git,github,gradle,postman,figma,vscode,linux&perline=18"/>
-
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,ktor,firebase,sqlite,gradle,git,github,postman,figma,vscode,linux&perline=15" />
 </p>
 
 ---
@@ -135,6 +135,40 @@ A modern offline Android music player focused on a clean, responsive and distrac
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/divinelydemonic/divinelydemonic/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://linktr.ee/divinelydemonic">
+    <img src="https://img.shields.io/badge/Linktree-00C2FF?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/~016b9b06bff44952f6">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/divinelydemonic">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/dev?id=7023526383303303541">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💼 Need an Android app?</b><br>
+  <a href="https://www.upwork.com/services/product/development-it-a-modern-android-app-using-kotlin-and-jetpack-compose-2092154947218719221?ref=project_share">
+    Android App Development with Kotlin &amp; Jetpack Compose →
+  </a>
+</p>
+<p align="center">
+  📧 <a href="mailto:divinelydemonic.dev@gmail.com">divinelydemonic.dev@gmail.com</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:kunaaalx360@gmail.com">kunaaalx360@gmail.com</a>
 </p>
 
 ---
