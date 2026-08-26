@@ -19,14 +19,14 @@
 
 ---
 
+## 👨‍💻 About Me
+
 <img
   align="right"
   alt="Android Developer"
   width="190"
-  src="./assets/android_mascot.png"
+  src="https://raw.githubusercontent.com/divinelydemonic/divinelydemonic/main/assets/android_mascot.png"
 />
-
-## 👨‍💻 About Me
 
 - 📱 Primarily focused on **Android development**
 - 🧩 Interested in building **real-world products from idea to implementation**
