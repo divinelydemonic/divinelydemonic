@@ -1,10 +1,10 @@
 <img
-  src="https://github.com/divinelydemonic/divinelydemonic/blob/main/Banner_image_dark.png"
+  src="./assets/Banner_image_dark.png"
   alt="MasterHead"
   width="100%"
 />
 
-<h1 align="center">Greetings, I'm Kunal Raj</h1>
+<h1 align="center">Hey 👋, I'm Kunal Raj</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Android+Developer;Mobile+Application+Developer;Product+Builder;Building+Real-World+Products;Turning+Ideas+Into+Apps;Always+Learning" />
@@ -19,7 +19,14 @@
 
 ---
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" />
+<!--  <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" /> -->
+
+<img
+  align="right"
+  alt="Android Developer"
+  width="190"
+  src="./assets/android-mascot.gif"
+/>
 
 ## 👨‍💻 About Me
 
@@ -27,9 +34,8 @@
 - 🧩 Interested in building **real-world products from idea to implementation**
 - 🏗️ Enjoy working on **architecture, UI, performance, and problem solving**
 - 🚀 Currently building and improving personal projects
-- 💼 Open to **freelance Android development and collaborations**
+- 💼 Open to **Android development opportunities, freelance projects, and collaborations**
 - 🧠 Focused on building software with a strong emphasis on quality and maintainability
-- 📫 Open to **freelance Android development and collaborations**
 - ⚡ Fun fact: *Books + Music = Perfect Day*
 
 ---
