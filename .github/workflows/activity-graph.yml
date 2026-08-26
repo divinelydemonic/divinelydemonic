@@ -22,7 +22,7 @@ jobs:
           username: divinelydemonic
           options: theme=tokyo-night&hide_border=true
           output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Publish activity graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
