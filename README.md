@@ -167,9 +167,14 @@ A modern offline Android music player built for a clean, responsive, and distrac
 <p align="center">
   <b>💼 Need an Android app?</b><br>
   <a href="https://www.upwork.com/services/product/development-it-a-modern-android-app-using-kotlin-and-jetpack-compose-2092154947218719221?ref=project_share">
-    Android App Development with Kotlin &amp; Jetpack Compose →
+    Complete Android App Development with Kotlin &amp; Jetpack Compose →
+  </a>
+  <br>
+  <a href="https://www.upwork.com/services/product/development-it-a-responsive-android-ui-using-kotlin-jetpack-compose-2092937728402043198?ref=project_share">
+    Android UI Development with Kotlin &amp; Jetpack Compose →
   </a>
 </p>
+
 <p align="center">
   📧 <a href="mailto:divinelydemonic.dev@gmail.com">divinelydemonic.dev@gmail.com</a>
   &nbsp;•&nbsp;
