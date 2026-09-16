@@ -98,7 +98,7 @@ A modern offline Android music player built for a clean, responsive, and distrac
 ## 🧩 Core Skills
 
 - 📱 **Android:** Kotlin, Java, Android SDK, Jetpack Compose, Navigation Compose, XML, Material 3
-- 🏗️ **Architecture:** MVVM, Clean Architecture, Repository Pattern, scalable application design
+- 🏗️ **Architecture:** MVVM, Hilt, Clean Architecture, Repository Pattern, scalable application design
 - 💾 **Data:** Room, DataStore, SQLite, Cloud Firestore, offline-first concepts
 - 🌐 **Networking & Backend:** REST APIs, Retrofit, Ktor, Firebase
 - 🔐 **Authentication:** Firebase Authentication, Google Sign-In, Android Credential Manager
