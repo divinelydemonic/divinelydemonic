@@ -40,7 +40,7 @@
 
 ## 🚧 Currently Working On
 
-💬 **Bubbles** — A real-time 1-to-1 chat application built to explore scalable Android architecture, authentication, Cloud Firestore, real-time messaging, and offline support.
+💬 **Bubbles** — A real-time 1-to-1 chat application built to explore scalable Android architecture, authentication, firebase storage, Cloud Firestore, real-time messaging, and offline support.
 
 **🔨 Currently in active development.**
 
@@ -146,42 +146,50 @@ A modern offline Android music player built for a clean, responsive, and distrac
 
 ---
 
-## 🔗 Let’s Connect
+## 🤝 Let's Connect
+
+Have an interesting idea, a project in mind, or just want to talk tech? I'd love to hear from you.
 
 <p align="center">
-  <a href="https://linktr.ee/divinelydemonic">
-    <img src="https://img.shields.io/badge/Linktree-00C2FF?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~016b9b06bff44952f6">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/divinelydemonic">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/dev?id=7023526383303303541">
-    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
-  </a>
+  <a href="https://github.com/divinelydemonic"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/divinelydemonic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/dvnlydmnc001"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linktr.ee/divinelydemonic"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="https://play.google.com/store/apps/dev?id=7023526383303303541"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 </p>
 
-<p align="center">
-  <b>💼 Need an Android app?</b><br>
-  <a href="https://www.upwork.com/services/product/development-it-a-modern-android-app-using-kotlin-and-jetpack-compose-2092154947218719221?ref=project_share">
-    Complete Android App Development with Kotlin &amp; Jetpack Compose →
-  </a>
-  <br>
-  <a href="https://www.upwork.com/services/product/development-it-a-responsive-android-ui-using-kotlin-jetpack-compose-2092937728402043198?ref=project_share">
-    Android UI Development with Kotlin &amp; Jetpack Compose →
-  </a>
-</p>
-
-<p align="center">
-  📧 <a href="mailto:divinelydemonic.dev@gmail.com">divinelydemonic.dev@gmail.com</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:kunaaalx360@gmail.com">kunaaalx360@gmail.com</a>
-</p>
+<table style="width:100%; border:0; border-collapse:collapse;">
+  <tr>
+    <td width="50%" valign="top" style="border:0; padding:64px 24px 16px 0;">
+      <h3>💼 Android Development Services</h3>
+      <p>Have an Android app idea? Let's bring it to life.</p>
+      <p>
+        📱 <a href="https://www.upwork.com/services/product/development-it-a-modern-android-app-using-kotlin-and-jetpack-compose-2092154947218719221?ref=project_share"><b>Android App Development</b></a>
+        <br />
+        <sub>Kotlin · Jetpack Compose</sub>
+      </p>
+      <p>
+        🎨 <a href="https://www.upwork.com/services/product/development-it-a-responsive-android-ui-using-kotlin-jetpack-compose-2092937728402043198?ref=project_share"><b>Android UI Development</b></a>
+        <br />
+        <sub>Responsive Android interfaces</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="border:0; padding:64px 0 16px 24px;">
+      <h3>📬 Get in Touch</h3>
+      <p>Have a project, collaboration, or opportunity in mind?</p>
+      <p>
+        <b>Primary Email</b>
+        <br />
+        <a href="mailto:divinelydemonic.dev@gmail.com">divinelydemonic.dev@gmail.com</a>
+      </p>
+      <p>
+        <b>Freelance</b>
+        <br />
+        <a href="https://www.upwork.com/freelancers/~016b9b06bff44952f6">Find me on Upwork →</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
