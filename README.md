@@ -75,7 +75,7 @@ A modern offline Android music player built for a clean, responsive, and distrac
 - 🌗 Light & dark themes
 - 📱 Responsive Android UI
 
-**Built with:** Kotlin • Jetpack Compose • Material 3 • Media3 • Room • DataStore • Coroutines & Flow • MVVM
+**Built with:** `Kotlin` `Jetpack Compose` `Material 3` `Media3` `Android Services` `DataStore` `Coroutines & Flow` `MVVM`
 
 📱 **[Get LocalWave on Google Play](https://play.google.com/store/apps/details?id=kr.android.musicplayer)**
 
@@ -97,23 +97,27 @@ A modern offline Android music player built for a clean, responsive, and distrac
 
 ---
 
-## 🧩 Core Skills
+## 🛠️ Core Skills
 
-- 📱 **Android:** Kotlin, Java, Android SDK, Jetpack Compose, Navigation Compose, XML, Material 3
-- 🏗️ **Architecture:** MVVM, Hilt, Clean Architecture, Repository Pattern, scalable application design
-- 💾 **Data:** Room, DataStore, SQLite, Cloud Firestore, offline-first concepts
-- 🌐 **Networking & Backend:** REST APIs, Retrofit, Ktor, Firebase
-- 🔐 **Authentication:** Firebase Authentication, Google Sign-In, Android Credential Manager
-- ⚙️ **Engineering:** Coroutines, Flow, StateFlow, Git, testing & debugging
-- 🎵 **Media:** Media3, ExoPlayer, background playback, MediaSession
-- 🎨 **UI:** Jetpack Compose, Material Design 3, responsive and adaptive interfaces
+- **💻 Languages:** Kotlin, Java
+- **📱 Android Development:** Android SDK, Jetpack Compose, Material 3, Navigation Compose
+- **🏗️ Architecture:** MVVM, Repository Pattern, Clean Architecture, Lifecycle-aware State Management
+- **⚡ Concurrency:** Kotlin Coroutines, Flow, StateFlow
+- **💉 Dependency Injection:** Hilt, Manual
+- **💾 Local Storage:** Room Database, SQLite, DataStore
+- **🌐 Networking:** Retrofit, OkHttp, REST API Integration, Kotlin Serialization
+- **🔥 Firebase & Authentication:** Firebase Authentication, Cloud Firestore, Firebase Storage, Google Sign-In, Credential Manager
+- **🎵 Media Development:** Media3, ExoPlayer, MediaSession, Background Playback
+- **🧪 Testing:** JUnit, MockK, Compose UI Testing
+- **⚙️ Background Processing:** WorkManager, Android Services, Notifications
+- **🧰 Development Tools:** Android Studio, IntelliJ IDEA, Gradle, Git, GitHub, Postman, GitHub Actions                            
 
 ---
 
 ## 🧠 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,ktor,firebase,sqlite,gradle,git,github,postman,figma,vscode,linux&perline=15" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,ktor,firebase,sqlite,gradle,git,github,githubactions,postman,idea&perline=15" />
 </p>
 
 ---
@@ -148,7 +152,9 @@ A modern offline Android music player built for a clean, responsive, and distrac
 
 ## 🤝 Let's Connect
 
-Have an interesting idea, a project in mind, or just want to talk tech? I'd love to hear from you.
+<p align="center">
+  Have an interesting idea, a project in mind, or just want to talk tech? I'd love to hear from you.
+</p>
 
 <p align="center">
   <a href="https://github.com/divinelydemonic"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
