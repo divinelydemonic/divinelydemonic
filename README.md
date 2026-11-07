@@ -200,5 +200,7 @@ A modern offline Android music player built for a clean, responsive, and distrac
 ---
 
 <p align="center">
-  <i>Turning ideas into products, one build at a time. 🚀</i>
+  <i>Turning ideas into products, one build at a time.</i>
+  <br /><br />
+  <img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY_&_COFFEE-00C2FF?style=flat-square" alt="Built with curiosity and coffee" />
 </p>
