@@ -99,7 +99,7 @@ A modern offline Android music player built for a clean, responsive, and distrac
 
 ## 🛠️ Core Skills
 
-- **💻 Languages:** Kotlin, Java
+- **💻 Languages:** Kotlin, Java, Python
 - **📱 Android Development:** Android SDK, Jetpack Compose, Material 3, Navigation Compose
 - **🏗️ Architecture:** MVVM, Repository Pattern, Clean Architecture, Lifecycle-aware State Management
 - **⚡ Concurrency:** Kotlin Coroutines, Flow, StateFlow
@@ -117,7 +117,7 @@ A modern offline Android music player built for a clean, responsive, and distrac
 ## 🧠 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,ktor,firebase,sqlite,gradle,git,github,githubactions,postman,idea&perline=15" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,ktor,firebase,sqlite,gradle,git,github,githubactions,postman,idea&perline=15" />
 </p>
 
 ---
