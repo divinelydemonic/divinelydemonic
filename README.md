@@ -114,8 +114,7 @@ A modern offline Android music player built for a clean, responsive, and distrac
 - **☁️ Cloud & Firebase:** GCP, Firebase Authentication, FCM, Crashlytics
 - **🧪 Testing:** JUnit, MockK, Compose UI Testing
 - **⚙️ Background Processing:** WorkManager, Android Services, Notifications
-- **🧩 Data Structures & Algorithms:** Arrays, Strings, Hashing, Linked Lists, Trees, Graphs, Recursion, Sorting, Searching, Dynamic Programming
-- **🧠 CS Fundamentals:** Operating Systems, DBMS, Computer Networks, Processes & Threads, Time & Space Complexity
+- **🧠 CS Fundamentals:** Operating Systems, DBMS, Computer Networks, Processes & Threads, Data Structures, Algorithms, Time & Space Complexity
 - **🧰 Tools:** Android Studio, IntelliJ IDEA, Gradle, Git, GitHub, Postman, GitHub Actions                            
 
 ---
