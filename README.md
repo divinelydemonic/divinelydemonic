@@ -60,6 +60,8 @@ I use it to turn ideas into real products, learn through hands-on development, a
 
 ### 🎵 LocalWave — Local Music Player
 
+[![Google Play Acquisitions](https://img.shields.io/badge/Google_Play-Downloads_1K%2B-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=kr.android.musicplayer)
+
 A modern offline Android music player built for a clean, responsive, and distraction-free listening experience, with persistent playback and dynamic album-based theming.
 
 **Highlights:**
