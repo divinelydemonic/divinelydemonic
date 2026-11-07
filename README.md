@@ -105,8 +105,9 @@ A modern offline Android music player built for a clean, responsive, and distrac
 - **⚡ Concurrency:** Kotlin Coroutines, Flow, StateFlow
 - **💉 Dependency Injection:** Hilt, Manual
 - **💾 Local Storage:** Room Database, SQLite, DataStore
-- **🌐 Networking:** Retrofit, OkHttp, REST API Integration, Kotlin Serialization
-- **🔥 Firebase & Authentication:** Firebase Authentication, Cloud Firestore, Firebase Storage, Google Sign-In, Credential Manager
+- **🌐 Networking:** Retrofit, OkHttp, Google APIs, REST API Integration, Kotlin Serialization
+- **🔐 Firebase & Authentication:** Firebase Authentication, Google Sign-In, Credential Manager
+- **☁️ Cloud & Backend Services:** Google Cloud Platform (GCP), Cloud Firestore, Firebase Storage, Firebase Cloud Messaging (FCM), Firebase Crashlytics
 - **🎵 Media Development:** Media3, ExoPlayer, MediaSession, Background Playback
 - **🧪 Testing:** JUnit, MockK, Compose UI Testing
 - **⚙️ Background Processing:** WorkManager, Android Services, Notifications
@@ -117,7 +118,7 @@ A modern offline Android music player built for a clean, responsive, and distrac
 ## 🧠 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,ktor,firebase,sqlite,gradle,git,github,githubactions,postman,idea&perline=15" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,ktor,firebase,gcp,sqlite,gradle,git,github,githubactions,postman,idea&perline=15" />
 </p>
 
 ---
