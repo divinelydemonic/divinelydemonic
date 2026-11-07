@@ -28,13 +28,13 @@
   src="https://raw.githubusercontent.com/divinelydemonic/divinelydemonic/main/assets/android_mascot.png"
 />
 
-- 📱 Primarily focused on **Android development**
-- 🧩 Interested in building **real-world products from idea to implementation**
-- 🏗️ Enjoy working on **architecture, UI, performance, and problem solving**
-- 🚀 Currently building and improving personal projects
-- 💼 Open to **Android development opportunities, freelance projects, and collaborations**
-- 🧠 Focused on building software with a strong emphasis on quality and maintainability
-- ⚡ Fun fact: *Books + Music = Perfect Day*
+- 📱 Focused on **Android development** and building polished mobile applications.
+- 🧩 Enjoy turning **ideas into practical, real-world products**.
+- 🏗️ Interested in software architecture, UI/UX, performance, and problem-solving.
+- 🚀 Constantly building, experimenting, and improving personal projects.
+- 💼 Open to **Android development opportunities, freelance projects, and collaborations**.
+- 🧠 Believe in writing clean, maintainable, and reliable software.
+- ⚡ **Fun fact:** *Books + Music = Perfect Day* 🎧📚
 
 ---
 
@@ -64,16 +64,21 @@ I use it to turn ideas into real products, learn through hands-on development, a
 
 A modern offline Android music player built for a clean, responsive, and distraction-free listening experience, with persistent playback and dynamic album-based theming.
 
-**Highlights:**
+**✨ Highlights:**
 
-- 🎧 Offline local music playback
-- 🎨 Dynamic album-based theming
-- ❤️ Favourite songs and library management
-- 🔔 Background playback & notification controls
-- 🔄 Shuffle and repeat modes
-- 💾 Persistent playback state
-- 🌗 Light & dark themes
-- 📱 Responsive Android UI
+| <div align="center">Feature</div> | <div align="center">Description</div> |
+|:---|:---|
+| 🎧 **Offline Playback** | Play locally stored music without internet |
+| 🎨 **Dynamic Theming** | Album artwork-based dynamic themes |
+| ❤️ **Music Library** | Favourite songs and library management |
+| 🔔 **Background Playback** | Background audio with notification controls |
+| 🎛️ **Media Session** | System media controls and playback integration |
+| 🔄 **Playback Modes** | Shuffle and repeat functionality |
+| 💾 **Playback Persistence** | Restore playback state across sessions |
+| 🔒 **Permission Handling** | Runtime permissions and local media access |
+| ⚡ **Reactive State Management** | Kotlin Coroutines and StateFlow |
+| 🌗 **Theme Support** | Light and dark themes |
+| 📱 **Modern UI** | Responsive Jetpack Compose and Material 3 interface |
 
 **Built with:** `Kotlin` `Jetpack Compose` `Material 3` `Media3` `Android Services` `DataStore` `Coroutines & Flow` `MVVM`
 
@@ -87,31 +92,31 @@ A modern offline Android music player built for a clean, responsive, and distrac
 
 ## 📚 Currently Learning
 
-- 🏗️ Advanced Android architecture and scalable application design
-- 🧠 System design and software engineering fundamentals
-- ⚡ Performance optimization and efficient app development
-- 🌐 Backend integration and API-driven applications
-- 🔐 Authentication, authorization, and secure data handling
-- 🧪 Testing, debugging, and production-quality development
-- 🎨 Responsive UI/UX and better product experiences
+- 🏗️ Scalable Android architecture and advanced application design
+- 🧠 Data Structures, Algorithms & System Design
+- ⚡ App performance optimization and memory management
+- 🌐 Backend development, REST APIs & cloud integration
+- 🔐 Application security and secure data handling
+- 🧪 Automated testing and production debugging
+- 🎨 Advanced Jetpack Compose UI/UX and animations
 
 ---
 
 ## 🛠️ Core Skills
 
 - **💻 Languages:** Kotlin, Java, Python
-- **📱 Android Development:** Android SDK, Jetpack Compose, Material 3, Navigation Compose
-- **🏗️ Architecture:** MVVM, Repository Pattern, Clean Architecture, Lifecycle-aware State Management
-- **⚡ Concurrency:** Kotlin Coroutines, Flow, StateFlow
-- **💉 Dependency Injection:** Hilt, Manual
-- **💾 Local Storage:** Room Database, SQLite, DataStore
-- **🌐 Networking:** Retrofit, OkHttp, Google APIs, REST API Integration, Kotlin Serialization
-- **🔐 Firebase & Authentication:** Firebase Authentication, Google Sign-In, Credential Manager
-- **☁️ Cloud & Backend Services:** Google Cloud Platform (GCP), Cloud Firestore, Firebase Storage, Firebase Cloud Messaging (FCM), Firebase Crashlytics
-- **🎵 Media Development:** Media3, ExoPlayer, MediaSession, Background Playback
+- **📱 Android Development:** Android SDK, Jetpack Compose, Material 3, Navigation Compose, Media3
+- **🏗️ Architecture & Design:** MVVM, Repository Pattern, Clean Architecture, OOP, SOLID
+- **⚡ Asynchronous Programming:** Coroutines, Flow, StateFlow
+- **💉 Dependency Injection:** Hilt, Manual DI
+- **💾 Databases & Storage:** Room, SQLite, DataStore, Cloud Firestore, Firebase Storage, SQL
+- **🌐 Networking & APIs:** Retrofit, OkHttp, REST APIs, Google APIs, Kotlin Serialization
+- **☁️ Cloud & Firebase:** GCP, Firebase Authentication, FCM, Crashlytics
 - **🧪 Testing:** JUnit, MockK, Compose UI Testing
 - **⚙️ Background Processing:** WorkManager, Android Services, Notifications
-- **🧰 Development Tools:** Android Studio, IntelliJ IDEA, Gradle, Git, GitHub, Postman, GitHub Actions                            
+- **🧩 Data Structures & Algorithms:** Arrays, Strings, Hashing, Linked Lists, Trees, Graphs, Recursion, Sorting, Searching, Dynamic Programming
+- **🧠 CS Fundamentals:** Operating Systems, DBMS, Computer Networks, Processes & Threads, Time & Space Complexity
+- **🧰 Tools:** Android Studio, IntelliJ IDEA, Gradle, Git, GitHub, Postman, GitHub Actions                            
 
 ---
 
@@ -165,38 +170,9 @@ A modern offline Android music player built for a clean, responsive, and distrac
   <a href="https://play.google.com/store/apps/dev?id=7023526383303303541"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 </p>
 
-<table style="width:100%; border:0; border-collapse:collapse;">
-  <tr>
-    <td width="50%" valign="top" style="border:0; padding:64px 24px 16px 0;">
-      <h3>💼 Android Development Services</h3>
-      <p>Have an Android app idea? Let's bring it to life.</p>
-      <p>
-        📱 <a href="https://www.upwork.com/services/product/development-it-a-modern-android-app-using-kotlin-and-jetpack-compose-2092154947218719221?ref=project_share"><b>Android App Development</b></a>
-        <br />
-        <sub>Kotlin · Jetpack Compose</sub>
-      </p>
-      <p>
-        🎨 <a href="https://www.upwork.com/services/product/development-it-a-responsive-android-ui-using-kotlin-jetpack-compose-2092937728402043198?ref=project_share"><b>Android UI Development</b></a>
-        <br />
-        <sub>Responsive Android interfaces</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border:0; padding:64px 0 16px 24px;">
-      <h3>📬 Get in Touch</h3>
-      <p>Have a project, collaboration, or opportunity in mind?</p>
-      <p>
-        <b>Primary Email</b>
-        <br />
-        <a href="mailto:divinelydemonic.dev@gmail.com">divinelydemonic.dev@gmail.com</a>
-      </p>
-      <p>
-        <b>Freelance</b>
-        <br />
-        <a href="https://www.upwork.com/freelancers/~016b9b06bff44952f6">Find me on Upwork →</a>
-      </p>
-    </td>
-  </tr>
-</table>
+| <div align="center">💼 Android Development Services</div> | <div align="center">📬 Get in Touch</div> |
+|:---|:---|
+| Have an Android app idea? Let's bring it to life.<br/><br/>📱 **[Android App Development](https://www.upwork.com/services/product/development-it-a-modern-android-app-using-kotlin-and-jetpack-compose-2092154947218719221?ref=project_share)**<br/><sub>Kotlin · Jetpack Compose</sub><br/><br/>🎨 **[Android UI Development](https://www.upwork.com/services/product/development-it-a-responsive-android-ui-using-kotlin-jetpack-compose-2092937728402043198?ref=project_share)**<br/><sub>Responsive Android interfaces</sub> | Have a project, collaboration, or opportunity in mind?<br/><br/>✉️ **Primary Email**<br/>[divinelydemonic.dev@gmail.com](mailto:divinelydemonic.dev@gmail.com)<br/><br/>💼 **Freelance**<br/>[Find me on Upwork →](https://www.upwork.com/freelancers/~016b9b06bff44952f6) |
 
 ---
 
